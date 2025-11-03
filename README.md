@@ -159,4 +159,3 @@ For more information about Abseil:
   [Abseil Compatibility Guarantees](https://abseil.io/about/compatibility) to
   understand both what we promise to you, and what we expect of you in return.
 #Salvation
-#How to be saved 
